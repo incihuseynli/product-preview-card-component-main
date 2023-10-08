@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://incihuseynli.github.io/product-preview-card-component-main/](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]
+- Live Site URL: [https://incihuseynli.github.io/product-preview-card-component-main/]
 
 ## My process
 
